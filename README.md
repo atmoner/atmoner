@@ -1,3 +1,5 @@
+![atmoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmoner&show_icons=true&theme=github_dark&custom_title=atmoner%27%20Github%20stats)
+
 Hello and thank you for going to my github page!
 I have been an IT developer since 15 years.
 I specialize in computer security, I develop a lot of software on this theme.
@@ -18,3 +20,5 @@ List of skills for which I have expertise or solid knowledge, and which I use re
 |SystemAdmin | Apache, Nginx, PHP-fpm |
 
 If you want more information about my work, contact me!
+
+
