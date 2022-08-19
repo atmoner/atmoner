@@ -1,4 +1,8 @@
-![atmoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmoner&show_icons=true&theme=github_dark&custom_title=atmoner%27%20Github%20stats)  
+ 
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=atmoner&show_icons=true&theme=github_dark&custom_title=atmoner%27%20Github%20stats">
+</p>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atmoner&repo=web-wallet)](https://github.com/atmoner/web-wallet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmoFolio&repo=light-folio)](https://github.com/CosmoFolio/light-folio)
