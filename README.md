@@ -1,6 +1,7 @@
 ![atmoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmoner&show_icons=true&theme=github_dark&custom_title=atmoner%27%20Github%20stats)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmoFolio&repo=light-folio)](https://github.com/CosmoFolio/light-folio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atmoner&repo=TwitWork)](https://github.com/atmoner/TwitWork)
 
 
 Hello and thank you for going to my github page!
