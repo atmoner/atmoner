@@ -3,11 +3,6 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=atmoner&show_icons=true&theme=github_dark&custom_title=atmoner%27%20Github%20stats">
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atmoner&repo=TwitWork)](https://github.com/atmoner/TwitWork)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atmoner&repo=web-wallet)](https://github.com/atmoner/web-wallet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmoFolio&repo=light-folio)](https://github.com/CosmoFolio/light-folio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atmoner&repo=cosmos-tool)](https://github.com/atmoner/cosmos-tool)
-
 Hello and thank you for going to my github page!
 I have been an IT developer since 15 years.
 I specialize in computer security, I develop a lot of software on this theme.
