@@ -1,5 +1,5 @@
- 
+ ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=atmoner&theme=dark) 
+
 <p align="center">
- 
- [![atmoner's GitHub stats](https://github-readme-stats.vercel.app/api?username=atmoner)](https://github.com/atmoner/github-readme-stats)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=atmoner&theme=dark) 
 </p>
